@@ -1,0 +1,6 @@
+{
+  "name": "ECHOLESS",
+  "description": "Organizational Near-Miss Memory - Learn from the warnings you almost ignored",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
